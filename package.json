@@ -22,10 +22,10 @@
     "markdown"
   ],
   "author": "Mutter45 <mutter45@foxmail.com>",
-  "homepage": "https://github.com/Mutter45/vue-create-print#readme",
+  "homepage": "https://github.com/Mutter45/wework-bot-cli#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mutter45/vue-create-print.git"
+    "url": "git+https://github.com/Mutter45/wework-bot-cli"
   },
   "license": "MIT",
   "dependencies": {
